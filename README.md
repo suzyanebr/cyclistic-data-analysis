@@ -135,6 +135,6 @@ O comportamento dos usuários revela oportunidades claras de conversão ao trans
 
 ## 🔗 Código do Projeto
 
-Acesse os arquivos SQL utilizados na análise:
+Acesse as queries utilizadas na análise:
 
-- SQL (BigQuery): [Ver queries](https://github.com/seu-usuario/seu-repo/tree/main/sql)
+- 📊 SQL (BigQuery): [Ver queries](https://github.com/suzyanebrito19/cyclistic-data-analysis/tree/main/sql)
