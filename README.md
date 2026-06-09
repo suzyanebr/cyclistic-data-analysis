@@ -69,19 +69,6 @@ O comportamento dos usuários revela oportunidades claras de conversão ao trans
   <strong>5. Reposicionar o serviço como solução de mobilidade:</strong> Os dados indicam que usuários casuais utilizam o serviço de forma mais recreativa, enquanto membros o utilizam como meio de transporte. Reforçar uma comunicação focada em economia, praticidade e uso no dia a dia, como deslocamentos para trabalho ou estudo, pode alterar essa percepção. O objetivo é ampliar o uso funcional do serviço e fortalecer seu papel na rotina do usuário.
 </p>
 
-<h2>Conclusão</h2>
-
-<p align="justify">
-  Os dados deixam claro que membros e usuários casuais apresentam comportamentos distintos dentro da Cyclistic. Enquanto os membros já incorporaram o serviço à rotina e utilizam principalmente durante a semana, em horários previsíveis, os usuários casuais aparecem de forma mais pontual, geralmente em momentos de lazer, com uso mais longo, porém menos frequente.
-</p>
-
-<p align="justify">
-  É justamente nesse ponto que está a maior oportunidade. Usuários casuais já conhecem e utilizam o serviço, demonstrando interesse, mas ainda não percebem valor suficiente para integrá-lo ao dia a dia. Ou seja, o desafio não está na atração, mas na construção de hábito.
-</p>
-
-<p align="justify">
-  Transformar esse uso ocasional em recorrente tende a impactar diretamente métricas como conversão, retenção e receita. No fim, o crescimento da Cyclistic depende menos de adquirir novos usuários e mais de evoluir o comportamento de quem já está dentro.
-</p>
 
 ##  Ferramentas Utilizadas
 
@@ -132,6 +119,20 @@ O comportamento dos usuários revela oportunidades claras de conversão ao trans
    * Organização do dashboard para facilitar a leitura e apoiar a tomada de decisão
 
 7. Tradução dos dados em insights acionáveis, conectando padrões de uso a estratégias de marketing e conversão de usuários
+
+<h2>Conclusão</h2>
+
+<p align="justify">
+  Os dados deixam claro que membros e usuários casuais apresentam comportamentos distintos dentro da Cyclistic. Enquanto os membros já incorporaram o serviço à rotina e utilizam principalmente durante a semana, em horários previsíveis, os usuários casuais aparecem de forma mais pontual, geralmente em momentos de lazer, com uso mais longo, porém menos frequente.
+</p>
+
+<p align="justify">
+  É justamente nesse ponto que está a maior oportunidade. Usuários casuais já conhecem e utilizam o serviço, demonstrando interesse, mas ainda não percebem valor suficiente para integrá-lo ao dia a dia. Ou seja, o desafio não está na atração, mas na construção de hábito.
+</p>
+
+<p align="justify">
+  Transformar esse uso ocasional em recorrente tende a impactar diretamente métricas como conversão, retenção e receita. No fim, o crescimento da Cyclistic depende menos de adquirir novos usuários e mais de evoluir o comportamento de quem já está dentro.
+</p>
 
 ## Código do Projeto
 
