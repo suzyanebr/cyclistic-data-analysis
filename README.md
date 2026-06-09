@@ -5,7 +5,7 @@ Este projeto analisa o comportamento de usuários do sistema de bicicletas da Cy
 
 Para isso, os dados de viagens dos últimos 12 meses foram explorados utilizando SQL, enquanto o Power BI foi utilizado para construção de dashboards interativos e análise visual.
 
-## Pergunta de Negócio
+## Pergunta de negócio
 
 Como os membros anuais e os usuários casuais utilizam as bicicletas da Cyclistic de maneira diferente?
 
@@ -13,7 +13,7 @@ A análise parte da ideia de que membros são mais lucrativos. Portanto, entende
 
 
 
-## Principais Insights
+## Principais insights
 
 A análise mostrou diferenças claras e perceptíveis no comportamento entre membros anuais e usuários casuais.
 
@@ -37,7 +37,7 @@ O que isso indica:
 
   Para aumentar a conversão, o foco deve ser em transformar o uso ocasional em um hábito e garantir que o usuário perceba valor contínuo no serviço.
 
- ## Dashboard Interativo:
+ ## Dashboard interativo:
  
   O dashboard apresenta as principais métricas e indicadores de uso, permitindo uma análise clara do comportamento dos usuários e da performance do serviço.
   
@@ -70,7 +70,7 @@ O comportamento dos usuários revela oportunidades claras de conversão ao trans
 </p>
 
 
-##  Ferramentas Utilizadas
+##  Ferramentas utilizadas
 
 * **Excel:**
   Utilizado para verificações iniciais da estrutura dos dados e criação de colunas derivadas.
@@ -134,7 +134,7 @@ O comportamento dos usuários revela oportunidades claras de conversão ao trans
   Transformar esse uso ocasional em recorrente tende a impactar diretamente métricas como conversão, retenção e receita. No fim, o crescimento da Cyclistic depende menos de adquirir novos usuários e mais de evoluir o comportamento de quem já está dentro.
 </p>
 
-## Código do Projeto
+## Código do projeto
 
 Acesse as queries utilizadas na análise:
 
